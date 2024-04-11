@@ -1,15 +1,22 @@
-# NM_AFRINSHEHNA_FRIDAYBATCH_FSWD_PROJECT
-
-Name: AFRIN SHEHNA D
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID: au960221104010
+Project implemented by: 
 
 
-College Name: Arunachala College of Engineering for Women
+Name:
 
 
-Username:admin_10
+ID:
 
 
-Password:admin_10
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
